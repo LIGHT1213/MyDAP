@@ -1,0 +1,13 @@
+.\objects\jtag_dp.o: mydap\JTAG_DP.c
+.\objects\jtag_dp.o: mydap\DAP_config.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f407xx.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\jtag_dp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\jtag_dp.o: C:\Users\pan39\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\jtag_dp.o: mydap\DAP.h
+.\objects\jtag_dp.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stddef.h
